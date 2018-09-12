@@ -41,7 +41,7 @@ const clone = ( obj ) => {
 };
 
 export default {
-	name : 'form-layout',
+	name : 'input-layout',
 
 	props : {
 		layout : {

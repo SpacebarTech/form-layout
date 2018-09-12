@@ -2,11 +2,11 @@
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
 	else if(typeof define === 'function' && define.amd)
-		define("FormLayout", [], factory);
+		define("InputLayout", [], factory);
 	else if(typeof exports === 'object')
-		exports["FormLayout"] = factory();
+		exports["InputLayout"] = factory();
 	else
-		root["FormLayout"] = factory();
+		root["InputLayout"] = factory();
 })(typeof self !== 'undefined' ? self : this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -131,7 +131,7 @@ var clone = function clone(obj) {
 };
 
 exports.default = {
-	name: 'form-layout',
+	name: 'input-layout',
 
 	props: {
 		layout: {

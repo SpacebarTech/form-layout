@@ -1,7 +1,7 @@
 {
-  "name": "@spacebartech/form-layout",
+  "name": "@spacebartech/input-layout",
   "version": "0.0.0-development",
-  "description": "Template for form layout",
+  "description": "Template for input layout on a space-form",
   "main": "dist/index.js",
   "files": [
     "dist/"
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SpacebarTech/form-layout.git"
+    "url": "https://github.com/SpacebarTech/input-layout.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SpacebarTech/form-layout/issues"
+    "url": "https://github.com/SpacebarTech/input-layout/issues"
   },
-  "homepage": "https://github.com/SpacebarTech/form-layout#readme",
+  "homepage": "https://github.com/SpacebarTech/input-layout#readme",
   "devDependencies": {
     "@commitlint/cli": "^7.0.0",
     "@commitlint/config-conventional": "^7.0.1",

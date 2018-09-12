@@ -7,7 +7,7 @@ module.exports = {
   output: {
     filename: 'index.js',
 		path: path.resolve( __dirname, 'dist' ),
-		library: 'FormLayout',
+		library: 'InputLayout',
 		libraryTarget: 'umd',
 		umdNamedDefine: true
   },
