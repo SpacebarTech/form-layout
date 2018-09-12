@@ -5,11 +5,11 @@ Form Layout Component
 
 ## Installation
 
-  `npm install @spacebartech/form-layout`
+  `npm install @spacebartech/input-layout`
 
 ## Usage
 
-  `const FormLayout = require( '@spacebartech/form-layout' )`
+  `const FormLayout = require( '@spacebartech/input-layout' )`
 
 ## Tests
 
